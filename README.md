@@ -19,7 +19,7 @@ To install the script and the dependancies you will need to use easy_install. Fo
 >sudo easy_install tool-VERSION.tar.gz
 
 3.You can now execute the script from any terminal (you may need to close a currently open terminal and reopen it) 
->tar zxfv tool-VERSION.tar.gz
+
 
 **Windows**
 

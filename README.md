@@ -15,8 +15,8 @@ To install the script and the dependancies you will need to use easy_install. Fo
 1.Mac and Unix users can simply use the following command; 
 >sudo curl https://bootstrap.pypa.io/ez_setup.py -o - | python
 
-2.Once the setuptools install is completed you are able to run teh setup script using easy_install; 
->sudo easy_install tool-VERSION.tar.gz
+2.Once the setuptools/easy_install install is completed you are able to download the distribution file from [here](https://bitbucket.org/laned/dirlist/downloads/DirLister-1.0.0.tar.gz) and run the setup script using easy_install; 
+>sudo easy_install DirLister-1.0.0.tar.gz
 
 3.You can now execute the script from any terminal (you may need to close a currently open terminal and reopen it) 
 
@@ -29,7 +29,7 @@ Windows Users, its not as simple. You will need to download the zip version of t
 >(Invoke-WebRequest https://bootstrap.pypa.io/ez_setup.py).Content | python -
 
 2.Once the setuptools install is completed you are able to run the setup script using easy_install (you will need to navigate to C:\PythonX.X\Scripts); 
->sudo easy_install.exe tool-VERSION.zip
+>sudo easy_install.exe DirLister-1.0.0.tar.gz
 
 ### Who do I talk to? ###
 
